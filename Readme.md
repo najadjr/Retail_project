@@ -213,7 +213,8 @@ This is the main dashboard displaying key business metrics such as Revenue, Prof
 
 This visualization compares total sales and profit across different regions, helping identify the highest-performing markets.
 
-![Sales and Profit by Region](screenshots/sales_profit_region.png)
+<img width="1758" height="582" alt="Screenshot 2026-06-25 030859" src="https://github.com/user-attachments/assets/89914a4c-dfaa-41bf-aecc-98fab15797fe" />
+
 
 ---
 
@@ -221,7 +222,8 @@ This visualization compares total sales and profit across different regions, hel
 
 This pie chart illustrates the contribution of each product category to overall sales.
 
-![Category Distribution](screenshots/category_distribution.png)
+<img width="1726" height="592" alt="Screenshot 2026-06-25 030926" src="https://github.com/user-attachments/assets/ea3ee434-35fe-45db-944a-c5b32971b05f" />
+
 
 ---
 
@@ -229,7 +231,8 @@ This pie chart illustrates the contribution of each product category to overall 
 
 This chart highlights the top ten customers based on total sales, allowing businesses to identify their most valuable customers.
 
-![Top Customers](screenshots/top_customers.png)
+<img width="1708" height="605" alt="Screenshot 2026-06-25 030957" src="https://github.com/user-attachments/assets/c4daf8aa-b741-44d7-8f0b-a52cab102098" />
+
 
 ---
 
@@ -237,7 +240,8 @@ This chart highlights the top ten customers based on total sales, allowing busin
 
 The dashboard provides dynamic filters for Region, Category, and Customer Segment, enabling users to analyze specific business scenarios in real time.
 
-![Interactive Filters](screenshots/filtered_dashboard.png)
+<img width="1728" height="822" alt="Screenshot 2026-06-25 031044" src="https://github.com/user-attachments/assets/1fd80756-fc8e-4d8f-93b4-56d5985b23d0" />
+
 
 ## Author
 
