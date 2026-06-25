@@ -203,7 +203,9 @@ This project demonstrates practical skills in data cleaning, data analysis, KPI 
 
 This is the main dashboard displaying key business metrics such as Revenue, Profit, Orders, and Average Order Value (AOV), along with the monthly sales trend.
 
-![Dashboard Home](screenshots/dashboard_home.png)
+<img width="1688" height="862" alt="Screenshot 2026-06-25 030840" src="https://github.com/user-attachments/assets/08f3bd2c-5412-4e26-80cd-19dd5a70a161" />
+
+
 
 ---
 
