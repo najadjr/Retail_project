@@ -1,6 +1,9 @@
 ## 📊 Retail Sales Analytics & Interactive Dashboard
 An end-to-end Data Analytics project that involves data cleaning, exploratory analysis, KPI calculation, and building an interactive dashboard using Streamlit.
 
+## Live Streamlit Dashboard
+https://retailproject-ln5grxw7cmvmt3huskq7xu.streamlit.app/
+
 ## 🚀 Project Overview
 The goal of this project is to transform raw retail sales data into meaningful business insights through:
 
